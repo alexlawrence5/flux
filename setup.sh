@@ -2,6 +2,7 @@
 
 sudo pacman -Syu
 sudo pacman -S figlet
+clear
 figlet "Flux"
 echo "Flux version: 2.0"
 sleep 10
